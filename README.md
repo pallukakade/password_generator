@@ -10,26 +10,23 @@ password_generator.py
    as well as numbers and of length 12 characters. Generate a strong password to provides great security.
 
 # Features
+    - Generate 100% secure unique Random password.
+    - Open source
+    - Generated passwords in not stored anywhere.
 
-    Generate 100% secure unique Random password.
+# Clone with ssh ::
 
-    Open source
-
-    Generated passwords in not stored anywhere.
-
-    
-
-# Clone with HTTPS
+git@github.com:pallukakade/password_generator.git
 
 
+# Clone with HTTPS :: 
 
-# Clone with SSH
+https://github.com/pallukakade/password_generator.git
 
 
+# Clone with github cli ::
+gh repo clone pallukakade/password_generator
 
-# Run pip3 install to set up this script
-
-pip3 install 
 
 # Generating a password via following command
 
